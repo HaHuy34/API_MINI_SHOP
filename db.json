@@ -1,0 +1,397 @@
+{
+  "Female":
+  [
+    {
+      "id": 1,
+      "title": "Áo sơ mi Tencel Divas",
+      "code": "17B9954",
+      "price": 990000,
+      "percent":50,
+      "color": "Họa tiết Cam đỏ",
+       "sizesize": {
+        "size01": "S",
+        "size02": "M",
+        "size03": "L",
+        "size04": "XL",
+        "size05": "XXL"
+      },
+      "count":10,
+      "image": "https://pubcdn.ivymoda.com/files/product/thumab/1400/2024/11/20/fac3be4ad37a5f948d4b0ca93898a978.webp",
+      "imageChild": {
+        "imageChild01": "https://pubcdn.ivymoda.com/files/product/thumab/400/2024/11/20/be69288e1e14328bab09599c3300c9d4.webp",
+        "imageChild02": "https://pubcdn.ivymoda.com/files/product/thumab/400/2024/11/20/302dd27417291ff90e3dfd9ee665fa93.webp",
+        "imageChild03": "https://pubcdn.ivymoda.com/files/product/thumab/400/2024/11/28/75f601f33f5f4ad2379d4f4b2fe32bc1.webp"
+      },
+      "description": "Thiết kế được lựa chọn trong BST Office Divas, mang đậm dấu ấn phong cách hiện đại dành riêng cho phái đẹp. Ngôn ngữ thiết kế tối giản được điểm xuyết khéo léo bằng các chi tiết cách điệu mềm mại không chỉ nâng tầm vẻ đẹp thanh lịch mà còn thể hiện cá tính độc lập và gu thời trang đẳng cấp."
+    },
+    {
+      "id": 2,
+      "title": "Áo vest Tweed Kose",
+      "code": "67B9916",
+      "price": 1990000,
+      "percent":40,
+      "color": "Kẻ Be",
+      "sizesize": {
+        "size01": "S",
+        "size02": "M",
+        "size03": "L",
+        "size04": "XL",
+        "size05": "XXL"
+      },
+      "count":10,
+      "image": "https://pubcdn.ivymoda.com/files/product/thumab/400/2024/11/08/d6a0999e681144af6576471eecb3a950.webp",
+      "imageChild": {
+        "imageChild01": "https://pubcdn.ivymoda.com/files/product/thumab/400/2024/11/08/c6425c268e00fde8d0de6aa65973960f.webp",
+        "imageChild02": "https://pubcdn.ivymoda.com/files/product/thumab/400/2024/11/08/6a2053e2702be31de4d28b0a8e8bbedb.webp",
+        "imageChild03": "https://pubcdn.ivymoda.com/files/product/thumab/400/2024/10/23/cc785318a2885a4236344f2ed99e6d05.webp"
+      },
+      "description": "Nằm trong BST mùa thu đông 2024, “SOLAR - SHINE TOGETHER” được trình làng với giới mộ điệu như một bản hòa ca tôn vinh tinh thần tự do, sự lạc quan và vẻ đẹp rực rỡ của phái đẹp. Đánh dấu sự chuyển mình của phụ nữ trong thời hiện đại, vượt qua những tiêu chuẩn “kép” áp đặt lên họ."
+    },
+    {
+      "id": 3,
+      "title": "Áo thun vân hoa",
+      "code": "58M8948",
+      "price": 790000,
+      "percent":30,
+      "color": "Trắng",
+      "sizesize": {
+        "size01": "S",
+        "size02": "M",
+        "size03": "L",
+        "size04": "XL",
+        "size05": "XXL"
+      },
+      "count":10,
+      "image": "https://pubcdn.ivymoda.com/files/product/thumab/400/2024/11/05/e22d3d80c318033f346c85158da3ab8b.webp",
+      "imageChild": {
+        "imageChild01": "https://pubcdn.ivymoda.com/files/product/thumab/400/2024/11/05/2d514773ad1091e7cae0abc483a69a73.webp",
+        "imageChild02": "https://pubcdn.ivymoda.com/files/product/thumab/400/2024/11/05/5de55887a5cfea72276af554737bc64b.webp",
+        "imageChild03": "https://pubcdn.ivymoda.com/files/product/thumab/400/2024/11/05/7c0121833f2f1ee269131081c7d2e363.webp"
+      },
+      "description": "Áo thun nằm trong BST Her Signature với những chi tiết thiết kế cách điệu tinh tế, kết hợp với họa tiết nhẹ nhàng, thể hiện tuyên ngôn về phong cách thời trang công sở kiểu mới – một phong cách tự tin, thanh lịch nhưng không kém phần duyên dáng."
+    },
+    {
+      "id": 4,
+      "title": "Áo thun vân hoa",
+      "code": "58M8948",
+      "price": 790000,
+      "percent":35,
+      "color": "Đen",
+      "sizesize": {
+        "size01": "S",
+        "size02": "M",
+        "size03": "L",
+        "size04": "XL",
+        "size05": "XXL"
+      },
+      "count":10,
+      "image": "https://pubcdn.ivymoda.com/files/product/thumab/400/2024/10/23/0aac8031ff785d0435e4dbb2284ba627.webp",
+      "imageChild": {
+        "imageChild01": "https://pubcdn.ivymoda.com/files/product/thumab/400/2024/10/23/381bb1b2f02a5fecf3fbb16982eee282.webp",
+        "imageChild02": "https://pubcdn.ivymoda.com/files/product/thumab/400/2024/10/23/010b3e0cbb71e27c353c35a49b98a36e.webp",
+        "imageChild03": "https://pubcdn.ivymoda.com/files/product/thumab/400/2024/10/23/b4b0cefeab7264062d82d8ecc63bb4e5.webp"
+      },
+      "description": "Áo thun nằm trong BST Her Signature với những chi tiết thiết kế cách điệu tinh tế, kết hợp với họa tiết nhẹ nhàng, thể hiện tuyên ngôn về phong cách thời trang công sở kiểu mới – một phong cách tự tin, thanh lịch nhưng không kém phần duyên dáng."
+    },
+    {
+      "id": 5,
+      "title": "Áo thun ôm LONG SLEEVE",
+      "code": "58M8946",
+      "price": 750000,
+      "percent":35,
+      "color": "Đen",
+      "sizesize": {
+        "size01": "S",
+        "size02": "M",
+        "size03": "L",
+        "size04": "XL",
+        "size05": "XXL"
+      },
+      "count":10,
+      "image": "https://pubcdn.ivymoda.com/files/product/thumab/400/2024/10/23/7489bc12e861e9c783b43efbcc7d936d.webp",
+      "imageChild": {
+        "imageChild01": "https://pubcdn.ivymoda.com/files/product/thumab/400/2024/10/23/5d7af86554139c33f1a79e780d7d483b.webp",
+        "imageChild02": "https://pubcdn.ivymoda.com/files/product/thumab/400/2024/10/23/2cc96023fa747949d90fa0eb94ea4fd9.webp",
+        "imageChild03": "https://pubcdn.ivymoda.com/files/product/thumab/400/2024/10/23/49f1ae98c320eb221150b0560206d830.webp"
+      },
+      "description": "Thiết kế áo thun cổ vuông cách điệu mang lại nét mới lạ, tôn lên phần cổ và vai, tạo vẻ thanh lịch mà vẫn quyến rũ. Áo dáng ôm, phù hợp với nhiều trang phục khác nhau như chân váy, quần jeans hay quần âu."
+    },
+    {
+      "id": 6,
+      "title": "Áo thun ôm LONG SLEEVE",
+      "code": "58M8946",
+      "price": 750000,
+      "percent":40,
+      "color": "Nâu đen",
+      "sizesize": {
+        "size01": "S",
+        "size02": "M",
+        "size03": "L",
+        "size04": "XL",
+        "size05": "XXL"
+      },
+      "count":10,
+      "image": "https://pubcdn.ivymoda.com/files/product/thumab/400/2024/11/05/75d609ac1165f0b9b415b71d1ec92f2d.webp",
+      "imageChild": {
+        "imageChild01": "https://pubcdn.ivymoda.com/files/product/thumab/400/2024/11/05/4388e650f9546776f2c87e869cf2a04c.webp",
+        "imageChild02": "https://pubcdn.ivymoda.com/files/product/thumab/400/2024/11/05/9006ceb71fffb9d7b8f9398d1981ed2a.webp",
+        "imageChild03": "https://pubcdn.ivymoda.com/files/product/thumab/400/2024/11/05/7a530e470a5bdb6376ba6343c7e80a71.webp"
+      },
+      "description": "Thiết kế áo thun cổ vuông cách điệu mang lại nét mới lạ, tôn lên phần cổ và vai, tạo vẻ thanh lịch mà vẫn quyến rũ. Áo dáng ôm, phù hợp với nhiều trang phục khác nhau như chân váy, quần jeans hay quần âu."
+    },
+    {
+      "id": 7,
+      "title": "Áo sơ mi lụa cổ đổ Lucille",
+      "code": "17M8943",
+      "price": 950000,
+      "percent":45,
+      "color": "Họa tiết Đen",
+      "sizesize": {
+        "size01": "S",
+        "size02": "M",
+        "size03": "L",
+        "size04": "XL",
+        "size05": "XXL"
+      },
+      "count":10,
+      "image": "https://pubcdn.ivymoda.com/files/product/thumab/400/2024/11/05/a9d992905aa523d5ffcd9646752e38c1.webp",
+      "imageChild": {
+        "imageChild01": "https://pubcdn.ivymoda.com/files/product/thumab/400/2024/11/05/e97033a904bb829c6d5df1b4d4b1e9af.webp",
+        "imageChild02": "https://pubcdn.ivymoda.com/files/product/thumab/400/2024/11/05/bc3a584bc9d1b9a7524aa5c08421f2bf.webp",
+        "imageChild03": "https://pubcdn.ivymoda.com/files/product/thumab/400/2024/11/05/483e59808a81a9466c62ba36e8d9fc3e.webp"
+      },
+      "description": "Công sở hiện đại không còn chỉ gói gọn trong những bộ trang phục nghiêm túc có đôi phần cứng nhắc, bởi giờ đây, phái đẹp không chỉ đẹp trong những dịp đặc biệt mà còn chỉn chu và tinh tế mỗi ngày khi đến văn phòng!"
+    },
+    {
+      "id": 8,
+      "title": "Áo sơ mi lụa cổ đổ Lucille",
+      "code": "17M8943",
+      "price": 950000,
+      "percent":50,
+      "color": "Họa tiết Trắng ngà",
+      "sizesize": {
+        "size01": "S",
+        "size02": "M",
+        "size03": "L",
+        "size04": "XL",
+        "size05": "XXL"
+      },
+      "count":10,
+      "image": "https://pubcdn.ivymoda.com/files/product/thumab/400/2024/11/05/bca8b48c107e2152f7d5eba42253c5cf.webp",
+      "imageChild": {
+        "imageChild01": "https://pubcdn.ivymoda.com/files/product/thumab/400/2024/11/08/b52caa62cd0b0df0684eb590c9531325.webp",
+        "imageChild02": "https://pubcdn.ivymoda.com/files/product/thumab/400/2024/11/08/8c34833b69619165ee72bcb26ff57c08.webp",
+        "imageChild03": "https://pubcdn.ivymoda.com/files/product/thumab/400/2024/11/05/8f54643e282969ac6280122088c80355.webp"
+      },
+      "description": "Công sở hiện đại không còn chỉ gói gọn trong những bộ trang phục nghiêm túc có đôi phần cứng nhắc, bởi giờ đây, phái đẹp không chỉ đẹp trong những dịp đặc biệt mà còn chỉn chu và tinh tế mỗi ngày khi đến văn phòng!"
+    },
+    {
+      "id":9,
+      "title": "Áo Gile Tuysi Cổ kiểu",
+      "code": "76M8949",
+      "price": 1390000,
+      "percent":20,
+      "color": "Be",
+      "sizesize": {
+        "size01": "S",
+        "size02": "M",
+        "size03": "L",
+        "size04": "XL",
+        "size05": "XXL"
+      },
+      "count":10,
+      "image": "https://pubcdn.ivymoda.com/files/product/thumab/400/2024/11/28/eb8dab408f7607b03eff515a2a2b60d0.webp",
+      "imageChild": {
+        "imageChild01": "https://pubcdn.ivymoda.com/files/product/thumab/400/2024/11/05/e40aae84584f200e2f7b27fdffabadf7.webp",
+        "imageChild02": "https://pubcdn.ivymoda.com/files/product/thumab/400/2024/10/23/244b9413f3cbcbadf77ef432e067785d.webp",
+        "imageChild03": "https://pubcdn.ivymoda.com/files/product/thumab/400/2024/11/05/31cc6e4775f2e13e80fbd915264d9524.webp"
+      },
+      "description": "Thiết kế công sở hiện đại, ghi dấu ấn với tính thẩm mỹ cao cùng sự tinh tế qua các chi tiết tạo điểm nhấn mà không mất đi nét sang trọng vốn có."
+    },
+    {
+      "id": 10,
+      "title": "Eser Dress - Set đầm dạo phố",
+      "code": "70M8555",
+      "price": 3480000,
+      "percent":25,
+      "color": "Xanh tím than",
+      "sizesize": {
+        "size01": "S",
+        "size02": "M",
+        "size03": "L",
+        "size04": "XL",
+        "size05": "XXL"
+      },
+      "count":10,
+      "image": "https://pubcdn.ivymoda.com/files/product/thumab/400/2024/10/25/b654ef0fe229f00ec62238170a06b07e.webp",
+      "imageChild": {
+        "imageChild01": "https://pubcdn.ivymoda.com/files/product/thumab/400/2024/10/25/0fcffef838e68e5e6df2c810bec16215.webp",
+        "imageChild02": "https://pubcdn.ivymoda.com/files/product/thumab/400/2024/10/25/0b0c610643a1b64437c8dc5432e1d8da.webp",
+        "imageChild03": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/09/25/91af661ca5731f98049a6452402549eb.JPG"
+      },
+      "description": "Phô diễn thần thái kiêu sa, thời thượng qua ấn phẩm Eser Dress trong BST EXPRESS, nơi những giá trị đích thực được đánh thức và tỏ bày thông qua các thiết kế cao cấp nhất!"
+    },
+    {
+      "id":11,
+      "title": "Quần short phối ly nổi",
+      "code": "20B9685",
+      "price": 595000,
+      "percent":30,
+      "color": "Ghi",
+      "sizesize": {
+        "size01": "S",
+        "size02": "M",
+        "size03": "L",
+        "size04": "XL",
+        "size05": "XXL"
+      },
+      "count":10,
+      "image": "https://pubcdn.ivymoda.com/files/product/thumab/400/2024/01/18/e81cc4130c19ea4a0a4909de7128e678.webp",
+      "imageChild": {
+        "imageChild01": "https://pubcdn.ivymoda.com/files/product/thumab/400/2024/01/18/4b536f6b2e81e049250cd4c6d894d1b3.webp",
+        "imageChild02": "https://pubcdn.ivymoda.com/files/product/thumab/400/2024/01/18/690a631854b47a5e96e36fed5e4a887b.webp",
+        "imageChild03": "https://pubcdn.ivymoda.com/files/product/thumab/400/2024/01/18/c8576f306da088166ce2f9d328710386.webp"
+      },
+      "description": "Quần short cạp cao, cài bằng khóa kéo, thiết kế 2 túi chéo 2 bên tiện lợi. Thiết kế ống suông kiểu rộng. Điểm nhấn là chi tiết tạo kiểu đai kết hợp phối ly nổi bắt mắt. "
+    },
+    {
+      "id": 12,
+      "title": "Quần short Tuysi gập gấu",
+      "code": "20B9641",
+      "price": 595000,
+      "percent":30,
+      "color": "Xanh tím than",
+      "sizesize": {
+        "size01": "S",
+        "size02": "M",
+        "size03": "L",
+        "size04": "XL",
+        "size05": "XXL"
+      },
+      "count":10,
+      "image": "https://pubcdn.ivymoda.com/files/product/thumab/400/2024/01/04/2ebf75ea64900091a913ac8032dba13c.webp",
+      "imageChild": {
+        "imageChild01": "https://pubcdn.ivymoda.com/files/product/thumab/400/2024/01/03/2e9d8013d874fcd8f0528d4b0d1141d2.webp",
+        "imageChild02": "https://pubcdn.ivymoda.com/files/product/thumab/400/2024/01/03/dd67f120b802e5d28574f8e401c367c9.webp",
+        "imageChild03": "https://pubcdn.ivymoda.com/files/product/thumab/400/2024/01/03/1ec44dfdef75fd997a75118a630afc7d.webp"
+      },
+      "description": "Quần short cạp cao, cài bằng khóa kéo ẩn phía trước và khuy nổi. 2 túi chéo 2 bên tiện lợi. Ống suông kiểu rộng, thiết kế gập gấu tạo điểm nhấn. Quần thiết kế trên nền vải Tuysi mềm mại, dễ mặc, độ thấm hút tốt. Các sợi vải rất nhẹ và mềm mịn mang lại cảm thoải mái tuyệt đối khi diện."
+    },
+    {
+      "id": 13,
+      "title": "Quần short cạp cao Rayon",
+      "code": "20M8698",
+      "price": 553000,
+      "percent":30,
+      "color": "Đỏ tươi",
+      "sizesize": {
+        "size01": "S",
+        "size02": "M",
+        "size03": "L",
+        "size04": "XL",
+        "size05": "XXL"
+      },
+      "count":10,
+      "image": "https://pubcdn.ivymoda.com/files/product/thumab/400/2024/03/04/6dd554c6b2b639b4ed922c54194ee27f.webp",
+      "imageChild": {
+        "imageChild01": "https://pubcdn.ivymoda.com/files/product/thumab/400/2024/03/22/21931cf86fe76cc9ba017df481d9a284.webp",
+        "imageChild02": "https://pubcdn.ivymoda.com/files/product/thumab/400/2024/03/22/8df26004c2bd1895448ce770de44eba6.webp",
+        "imageChild03": "https://pubcdn.ivymoda.com/files/product/thumab/400/2024/03/22/e4cf9d731eb88d4d7b6e7737b6ddf117.webp"
+      },
+      "description": "Thiết kế hoàn hảo dành cho các cô nàng công sở đang tìm kiếm bộ trang phục trẻ trung, cá tính nhưng vẫn giữ được nét lịch sự, duyên dáng."
+    },
+    {
+      "id": 14,
+      "title": "Quần short cạp cao Rayon",
+      "code": "20M8698",
+      "price": 553000,
+      "percent":30,
+      "color": "Tím nhạt",
+      "sizesize": {
+        "size01": "S",
+        "size02": "M",
+        "size03": "L",
+        "size04": "XL",
+        "size05": "XXL"
+      },
+      "count":10,
+      "image": "https://pubcdn.ivymoda.com/files/product/thumab/400/2024/03/05/479056df4eb31d5c9aa0a8566bbec102.webp",
+      "imageChild": {
+        "imageChild01": "https://pubcdn.ivymoda.com/files/product/thumab/400/2024/03/14/086242c6263e8dbc24deb994ab3b17e3.webp",
+        "imageChild02": "https://pubcdn.ivymoda.com/files/product/thumab/400/2024/03/14/422d05c7ddfb5cca541bf943ad07ed92.webp",
+        "imageChild03": "https://pubcdn.ivymoda.com/files/product/thumab/400/2024/03/14/ccd51ad7c1e53beb2bacdb7958fb9aaa.webp"
+      },
+      "description": "Thiết kế hoàn hảo dành cho các cô nàng công sở đang tìm kiếm bộ trang phục trẻ trung, cá tính nhưng vẫn giữ được nét lịch sự, duyên dáng."
+    },
+    {
+      "id": 15,
+      "title": "Quần short cạp cao Rayon",
+      "code": "20M8698",
+      "price": 553000,
+      "percent":30,
+      "color": "",
+      "sizesize": {
+        "size01": "S",
+        "size02": "M",
+        "size03": "L",
+        "size04": "XL",
+        "size05": "XXL"
+      },
+      "count":10,
+      "image": "https://pubcdn.ivymoda.com/files/product/thumab/400/2024/03/05/6f92d34d3c5375e9a7c1dc521e6a96ee.webp",
+      "imageChild": {
+        "imageChild01": "https://pubcdn.ivymoda.com/files/product/thumab/400/2024/03/14/e9bb9093842d01317f968364b97b30fd.webp",
+        "imageChild02": "https://pubcdn.ivymoda.com/files/product/thumab/400/2024/03/14/4626ddc1bc357c9f3c53ee19714c627d.webp",
+        "imageChild03": "https://pubcdn.ivymoda.com/files/product/thumab/400/2024/03/14/ae9681ae6921ac21c72c53a05e108084.webp"
+      },
+      "description": "Thiết kế hoàn hảo dành cho các cô nàng công sở đang tìm kiếm bộ trang phục trẻ trung, cá tính nhưng vẫn giữ được nét lịch sự, duyên dáng."
+    },
+    {
+      "id": 16,
+      "title": "Quần suông cạp phối nơ",
+      "code": "22B9631",
+      "price": 833000,
+      "percent":30,
+      "color": "Be sáng",
+      "sizesize": {
+        "size01": "S",
+        "size02": "M",
+        "size03": "L",
+        "size04": "XL",
+        "size05": "XXL"
+      },
+      "count":10,
+      "image": "https://pubcdn.ivymoda.com/files/product/thumab/400/2024/01/18/81d31b77d637e63354b40c8ec60abb65.webp",
+      "imageChild": {
+        "imageChild01": "https://pubcdn.ivymoda.com/files/product/thumab/400/2024/01/18/4d68031b41a83a8d07bd80c16ada3d60.webp",
+        "imageChild02": "https://pubcdn.ivymoda.com/files/product/thumab/400/2024/01/18/50ac43123598deec9b59588f86d1446d.webp",
+        "imageChild03": "https://pubcdn.ivymoda.com/files/product/thumab/400/2024/01/18/dba6d876547e224c945ba57c007fe912.webp"
+      },
+      "description": "Quần suông ống rộng, độ dài đến mắt cá chân tôn dáng. Thiết kế túi sườn cùng tạo ly trên thân trước."
+    },
+    {
+      "id":17 ,
+      "title": "Quần suông cạp phối khuy",
+      "code": "22B9682",
+      "price": 693000,
+      "color": "Be",
+      "sizesize": {
+        "size01": "S",
+        "size02": "M",
+        "size03": "L",
+        "size04": "XL",
+        "size05": "XXL"
+      },
+      "count":10,
+      "image": "https://pubcdn.ivymoda.com/files/product/thumab/400/2024/03/05/5aa2771414a7244fa11d32116405e60f.webp",
+      "imageChild": {
+        "imageChild01": "https://pubcdn.ivymoda.com/files/product/thumab/400/2024/03/05/dfb1c568917c8a1f8e0a5f09c7101adc.webp",
+        "imageChild02": "https://pubcdn.ivymoda.com/files/product/thumab/400/2024/03/05/af811edbd0b169a02dfb44358a6beb80.webp",
+        "imageChild03": "https://pubcdn.ivymoda.com/files/product/thumab/400/2024/03/05/0300b64f2e018a9ede60e52f52ea6c6e.webp"
+      },
+      "description": "Quần suông vải Tuysi mềm nhẹ, thoải mái, che khuyết điểm tốt giúp nàng tự tin mỗi khi xuất hiện."
+    }
+    
+    
+  ]
+}
